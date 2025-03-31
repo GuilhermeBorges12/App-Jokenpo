@@ -66,6 +66,9 @@ lib/
 4. **Executar o Aplicativo**: Conecte um dispositivo físico ou use um emulador e execute o aplicativo:
     flutter run
 
-##Exemplo de Funcionamento
+## Exemplo de Funcionamento com capturas de tela
   . Aqui está um exemplo de como o jogo funciona visualmente:![gif_jogo](https://github.com/user-attachments/assets/6abe56b6-69da-493e-83b0-eafe4af4170a)
+
+![image](https://github.com/user-attachments/assets/96e491e4-2607-4c17-ab0e-e0396a597aeb)
+
 
